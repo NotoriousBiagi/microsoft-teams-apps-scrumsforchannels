@@ -5,10 +5,10 @@
   "id": "c683b4d3-97de-4331-8340-63fcd93b47e6",
   "packageName": "com.microsoft.teams.scrumsforchannels",
   "developer": {
-    "name": "<<companyName>>",
-    "websiteUrl": "<<websiteUrl>>",
-    "privacyUrl": "<<privacyUrl>>",
-    "termsOfUseUrl": "<<termsOfUseUrl>>"
+    "name": "PwCLabsStrategy",
+    "websiteUrl": "https://hq.pwc.com",
+    "privacyUrl": "https://hq.pwc.com",
+    "termsOfUseUrl": "https://hq.pwc.com"
   },
   "icons": {
     "color": "color.png",
@@ -25,15 +25,11 @@
   "accentColor": "#FFCCD8",
   "bots": [
     {
-      "botId": "<<botId>>",
-      "scopes": [
-        "team"
-      ],
+      "botId": "c146a3ee-ad89-4f14-a588-ff0a660a5f48",
+      "scopes": ["team"],
       "commandLists": [
         {
-          "scopes": [
-            "team"
-          ],
+          "scopes": ["team"],
           "commands": [
             {
               "title": "Open settings",
@@ -51,6 +47,7 @@
     }
   ],
   "validDomains": [
-    "<<valid domains>>"
+    "dev-pwc-labs-scrum-for-channels.azurewebsites.net",
+    "github.com"
   ]
 }
