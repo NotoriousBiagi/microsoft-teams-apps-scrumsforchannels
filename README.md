@@ -4,8 +4,8 @@ languages:
 - csharp
 products:
 - office-teams
-description: Scrums for channels helps you get status updates from your team in channel scope
-urlFragment: microsoft-teams-apps-scrumsforchannels
+description: ScrumBot for Teams helps you get status updates from your team in channel-level scope
+urlFragment: scrumbot-for-teams
 ---
 
 # Scrums for Channels
@@ -47,7 +47,8 @@ If you need to conduct a scrum in a Teams group chat instead of a channel, check
 
 ## Legal notice
 
-This app template is provided under the [MIT License](https://github.com/OfficeDev/microsoft-teams-apps-scrumsforchannels/blob/master/LICENSE) terms.  In addition to these terms, by using this app template you agree to the following:
+This app template is provided under the [MIT License](https://github.com/OfficeDev/microsoft-teams-apps-scrumsforchannels/blob/master/LICENSE) terms.  
+In addition to these terms, by using this app template you agree to the following:
 
 -	You are responsible for complying with all applicable privacy and security regulations related to use, collection and handling of any personal data by your app.  This includes complying with all internal privacy and security policies of your organization if your app is developed to be sideloaded internally within your organization.
 
@@ -60,19 +61,3 @@ This app template is provided under the [MIT License](https://github.com/OfficeD
 ## Getting started
 
 Begin with the [Solution overview](https://github.com/OfficeDev/microsoft-teams-apps-scrumsforchannels/wiki/Solution-overview) to read about what the app does and how it works.
-
-When you're ready to try out Scrums for Channels, or to use it in your own organization, follow the steps in the [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-scrumsforchannels/wiki/Deployment-Guide).
-
-## Contributing
-
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
-
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
