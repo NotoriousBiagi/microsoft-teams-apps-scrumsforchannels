@@ -194,7 +194,7 @@
     <comment>Placeholder text for today task description input field on update status task module.</comment>
   </data>
   <data name="UpdateStatusTodayDescriptionTitle" xml:space="preserve">
-    <value>*What will you do today?</value>
+    <value>What are you working on today?</value>
     <comment>Title for today task description field on update status task module.</comment>
   </data>
   <data name="UpdateStatusYesterdayDescriptionPlaceholder" xml:space="preserve">
@@ -202,7 +202,7 @@
     <comment>Placeholder text for yesterday task description input field on update status task module.</comment>
   </data>
   <data name="UpdateStatusYesterdayDescriptionTitle" xml:space="preserve">
-    <value>*What did you do yesterday?</value>
+    <value>*What did you accomplish since the last check-in?</value>
     <comment>Title for yesterday task description field on update status task module.</comment>
   </data>
   <data name="UpdateStatusTodayDescriptionErrorMessage" xml:space="preserve">
@@ -298,16 +298,16 @@
     <comment>Text to show on update status button.</comment>
   </data>
   <data name="ScrumDetailsAnyBlockersTitle" xml:space="preserve">
-    <value>Any blockers?</value>
+    <value>Are there any issues blocking your progress?</value>
     <comment>Title for any blockers field on scrum details task module.</comment>
   </data>
   <data name="ScrumDetailsTodayTaskDescriptionTitle" xml:space="preserve">
-    <value>What will you do today?</value>
+    <value>What are you working on today?</value>
     <comment>Title for today task description field on scrum details task module.</comment>
   </data>
   <data name="ScrumDetailsYesterdayTaskDescriptionTitle" xml:space="preserve">
-    <value>What did you do yesterday?</value>
-    <comment>Title for yesterday task description field on scrum details task module.</comment>
+    <value>What did you accomplish since the last check-in?</value>
+    <comment>Title for previous scrum task description field on scrum details task module.</comment>
   </data>
   <data name="BotFailureTitle" xml:space="preserve">
     <value>Bot failure</value>
@@ -334,7 +334,7 @@
     <comment>Text to show in the middle of the start scrum card when any first status is updated.</comment>
   </data>
   <data name="StartScrumCardWelcomeText" xml:space="preserve">
-    <value>Hey guys! Can't wait to hear from you fellows...</value>
+    <value>Welcome to Scrum - ready to hear about what you are working on.</value>
     <comment>Text to show in the middle of the start scrum card when it is sent for the first time in a day.</comment>
   </data>
   <data name="ScrumRunningStatusActive" xml:space="preserve">
